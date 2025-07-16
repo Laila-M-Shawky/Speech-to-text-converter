@@ -56,7 +56,10 @@ pip install pyaudio
 python main.py
 ```
 
+
 ## 🎬 Inference Demo
+
+![Demo](Demo.gif)
 
 To use the application:
 
