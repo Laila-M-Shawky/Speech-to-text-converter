@@ -9,18 +9,25 @@
 
 ## 📌 Description
 
-Speech to Text Converter is a simple desktop program built with Python that helps users transform spoken language into summarized, readable text.  
-It supports both live audio recording through a microphone and file-based input using `.wav` files.  
-After converting speech to text using Google’s Speech Recognition API, the application applies LSA (Latent Semantic Analysis) to summarize the text.  
-Finally, it uses a text-to-speech engine to read the summary aloud for accessibility and convenience.
+- Simple desktop app built with Python to convert speech into summarized, readable text.
+- Supports two input methods:
+  - Live microphone recording.
+  - File-based input using `.wav` files.
+- Uses Google Speech Recognition to convert speech to text.
+- Applies LSA (Latent Semantic Analysis) via Sumy for automatic summarization.
+- Outputs summary as:
+  - Text saved to `output.txt`.
+  - Spoken audio using `pyttsx3` for accessibility.
 
 ---
 
 ## 📁 Dataset
 
-This project does not require any external dataset.  
-It is designed to work with real-time voice input or pre-recorded `.wav` files.  
-Users can test the tool with any clear, English audio sample in `.wav` format.
+- No external dataset is required.
+- Works with:
+  - Real-time voice input.
+  - Any clear `.wav` audio file in English.
+- Ideal for demoing on personal recordings or public `.wav` samples.
 
 ---
 
