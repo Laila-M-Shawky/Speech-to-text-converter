@@ -36,7 +36,7 @@ pip install SpeechRecognition
 pip install pyttsx3
 pip install sumy
 pip install pyaudio
-
+```
 ### 2. Setup
 
 - Ensure the following before running:
@@ -47,7 +47,7 @@ pip install pyaudio
 
 ```bash
 python main.py
-
+```
 
 ## 🎬 Inference Demo
 
