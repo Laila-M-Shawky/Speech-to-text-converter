@@ -74,6 +74,21 @@ Fast and accessible conversion of voice to summarized text.
 
 ---
 
+## 📁 Project Structure
+
+```bash
+📁 SpeechToTextConverter
+├── main.py                 # GUI logic and main app flow
+├── audio_utils.py          # Functions for recording and transcribing audio
+├── summary_utils.py        # Summarizing text and saving output
+├── speech_utils.py         # Text-to-speech functionality
+├── requirements.txt        # List of required Python libraries
+├── README.md               # Project documentation
+├── speech_to_text.gif      # Demo GIF showing application in action
+```
+
+---
+
 ## 👥 Contributors
 
 Developed by **Team 4 – ICAIL 2025**:
