@@ -80,7 +80,7 @@ Fast and accessible conversion of voice to summarized text.
 ## 📁 Project Structure
 
 ```bash
-📁 SpeechToTextConverter
+SpeechToTextConverter
 ├── main.py                    # Main GUI and application logic
 ├── audio_utils.py             # Audio recording and speech recognition functions
 ├── summary_utils.py           # Text summarization and file saving utilities
