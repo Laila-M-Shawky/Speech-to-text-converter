@@ -1,9 +1,22 @@
 # 🎙️ Speech to Text Converter
 
-![Demo](speech_to_text.gif)
+<p align="center">
+  <img src="speech_to_text.gif" width="500" />
+</p>
 
 - This desktop app converts speech into text, summarizes the content, and speaks it back to the user.
 - You can either record your voice using a microphone or upload a `.wav` audio file.
+
+---
+
+## 📚 Table of Contents
+- [Description](#-description)
+- [Dataset](#-dataset)
+- [Installation](#-installation)
+- [Inference Demo](#-inference-demo)
+- [Project Structure](#-project-structure)
+- [Contributors](#-contributors)
+- [License](#-license)
 
 ---
 
@@ -59,7 +72,9 @@ python main.py
 
 ## 🎬 Inference Demo
 
-![Demo](Demo.gif)
+<p align="center">
+  <img src="Demo.gif" width="700" />
+</p>
 
 To use the application:
 
