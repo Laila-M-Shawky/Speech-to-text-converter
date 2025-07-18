@@ -1,7 +1,7 @@
 # 🎙️ Speech to Text Converter
 
 <p align="center">
-  <img src="speech_to_text.gif" width="500" />
+  <img src="speech_to_text.gif" width="600" />
 </p>
 
 - This desktop app converts speech into text, summarizes the content, and speaks it back to the user.
@@ -73,7 +73,7 @@ python main.py
 ## 🎬 Inference Demo
 
 <p align="center">
-  <img src="Demo.gif" width="700" />
+  <img src="Demo.gif" width="600" />
 </p>
 
 To use the application:
