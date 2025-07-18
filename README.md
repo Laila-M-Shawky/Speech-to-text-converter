@@ -73,7 +73,7 @@ python main.py
 ## 🎬 Inference Demo
 
 <p align="center">
-  <img src="Demo.gif" width="600" />
+  <img src="Demo.gif" width="800" />
 </p>
 
 To use the application:
